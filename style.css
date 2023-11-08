@@ -1,0 +1,135 @@
+.bg-enji{
+    background-color: lightblue;
+}
+header .text-muted{
+    color:#ffffff!important;
+}
+header img{
+    margin-right:0.8rem;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 1080px) {
+    .py-5{
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        background-image: url(2023素材例/Mikucafe_F_miku4.jpg);
+        background-size: cover;
+        background-position: bottom center;
+    }
+
+    .bd-placeholder-img-lg{
+        font-size: 3.5rem;
+    }
+
+    .py-5 p:last-child{
+        margin-bottom: 0;
+    }
+
+    .py-5 h1{
+        font-weight: 500;
+    }
+
+    .py-5.container{
+        max-width: max;
+    }
+
+    footer{
+        padding-top: 0rem;
+        padding-bottom: 0rem;
+    }
+
+    footer p{
+        margin-bottom: .25rem;
+    }
+
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 1080px) {
+    .py-6{
+        padding-top: 0rem;
+        padding-bottom: 0rem;
+        background-image: url(2023素材例/ryotehatsunemiku2532x1170-2.jpg);
+        background-size: cover;
+        background-position: bottom center;
+    }
+
+    .bd-placeholder-img-lg{
+        font-size: 3.5rem;
+    }
+
+    .py-6 p:last-child{
+        margin-bottom: 0;
+    }
+
+    .py-6.container{
+        max-width: max;
+    }
+
+    footer{
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+
+    footer p{
+        margin-bottom: .25rem;
+    }
+
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 1080px) {
+    .py-7{
+        padding-top: 12rem;
+        padding-bottom: 5rem;
+        background-image: url(2023素材例/2.505F65CF-0451-4A82-9F1D-DF1D64F5ED88.png);
+        background-size: cover;
+        background-position: bottom center;
+    }
+
+    .bd-placeholder-img-lg{
+        font-size: 3.5rem;
+    }
+
+    .py-7 p:last-child{
+        margin-bottom: 0;
+    }
+
+    .py-7.container{
+        max-width: max;
+    }
+
+    footer{
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+
+    footer p{
+        margin-bottom: .25rem;
+    }
+
+}
